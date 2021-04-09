@@ -1,2 +1,2 @@
 # CSS-My-site
-CV page using HTML and CSS
+Made front end page using HTML and CSS
